@@ -1,0 +1,13 @@
+Object MyObject {
+    shape({
+        
+    })
+    
+    initialisers({
+        
+    })
+    
+    mutations({
+        
+    })
+}

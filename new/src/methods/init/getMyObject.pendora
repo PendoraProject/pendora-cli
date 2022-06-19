@@ -1,0 +1,10 @@
+InitMethod getMyObject(){
+    route("/getMyObject")
+    
+    request({
+        
+    })
+    
+    return<>({
+    })
+}

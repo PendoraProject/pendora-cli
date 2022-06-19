@@ -1,0 +1,10 @@
+{
+    "name": "new",
+    "version": 1.0,
+    "global": "MyAPI",
+    "buildkits": [
+        "rust",
+        "kotlin",
+        "typescript"
+    ]
+}

@@ -1,0 +1,14 @@
+Global MyAPI {
+    headRoute("https://myapi.com")
+    values({
+
+    })
+    
+    initialisers({
+
+    })
+    
+    mutations({
+
+    })
+}
