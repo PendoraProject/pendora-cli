@@ -1,9 +1,0 @@
-MutMethod setMyObject(){
-    route("/setMyObject")
-    
-    request({
-        
-    })
-    
-    callback()
-}
