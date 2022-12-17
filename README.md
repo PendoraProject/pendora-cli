@@ -22,19 +22,19 @@ See the Implementation Documentation section of the Pendora Docs for more inform
 ## Quick Guide
 A quick reference for commands
 ### Create a New Project
-<name> field is optional
+`<name>` field is optional
 ```bash
 pendora-cli new <name>
 
 ```
 ### Create a New Object
-<name> field is optional
+`<name>` field is optional
 ```bash
 pendora-cli create object <name>
 
 ```
 ### Create a New Method
-<name> field is optional
+`<name>` field is optional
 ```bash
 pendora-cli create method <name>
 
