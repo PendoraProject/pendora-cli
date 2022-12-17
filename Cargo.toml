@@ -1,0 +1,16 @@
+[package]
+name = "pendora-cli"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "3", features = ["derive"] }
+dialoguer = "0.10"
+indicatif = "0.17"
+thiserror = "1"
+eyre = "0.6"
+pendora-base = { git = "https://github.com/PendoraProject/pendora-base.git" }
+toml = "0.5"
+serde = { version = "1.0", features = ["derive"] }
